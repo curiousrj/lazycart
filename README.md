@@ -9,7 +9,7 @@
 
 ## Built with
 
-* [![React][React.js]][https://React.js]
+* [![React](https://Reactjs.org)](https://Reactjs.org)
 * [![Redux][Redux.js.org]][Redux-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![React][Fakestoreapi.com]][Fakestoreapi-url]

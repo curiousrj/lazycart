@@ -1,0 +1,12 @@
+.item > img {
+    background-size: cover;
+    height:100vh
+}
+
+.carousel-inner {
+    height:100vh;
+} 
+
+.carousel-caption {
+    top:58%;
+}

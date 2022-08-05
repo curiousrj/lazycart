@@ -1,0 +1,22 @@
+.navbar-nav a {
+    font-size: 18px;
+}
+.navButtons {
+    flex-direction: column;
+}
+.navButtons .btn {
+    font-size: 18px;
+}
+
+.register {
+    margin: 8px 0;
+}
+
+@media only screen and (min-width: 992px) {
+    .navButtons {
+        flex-direction: row;
+    }
+    .register {
+        margin: 0 8px;
+    }
+}

@@ -13,5 +13,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_LAZYCART_2975D }}'
-          projectId: lazycart-2975d
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_LAZYCART_96F49 }}'
+          projectId: lazycart-96f49

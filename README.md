@@ -1,29 +1,32 @@
-<h1 align="center">Welcome to Lazy Cart 👋</h1>
+<h1 align="center">Lazy Cart</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > This is a basic ecommerce frontend project using react and redux. The demo data is fetched from api. The cart was created to understand the dataflow in redux.
 
-### ✨ [Demo](https://lazycart-96f49.web.app)
+### ✨ [ Project Demo](https://lazycart-96f49.web.app)
 
-## Install
+## Built with
 
-```sh
-npm install
-```
+* [![React][React.js]][React-url]
+* [![Redux][Redux.js.org]][Redux-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![React][Fakestoreapi.com]][Fakestoreapi-url]
+* [![Firebase][Firebase.com]][Firebase-url]
 
-## Usage
+## Required packages to run
 
-```sh
-npm run start
-```
+* Redux
+* Redux Toolkit
+* React-Redux
+* React-Router-Dom
+* React-Loading-Skeleton
 
-## Run tests
+## Required cdn to run
 
-```sh
-npm run test
-```
+* Bootstrap
+* Font Awesome
 
 ## Author
 
@@ -36,4 +39,3 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

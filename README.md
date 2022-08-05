@@ -9,11 +9,11 @@
 
 ## Built with
 
-* [![React](https://Reactjs.org)](https://Reactjs.org)
-* [![Redux][Redux.js.org]][Redux-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![React][Fakestoreapi.com]][Fakestoreapi-url]
-* [![Firebase][Firebase.com]][Firebase-url]
+* React
+* Redux
+* Bootstrap
+* Fakestoreapi
+* Firebase
 
 ## Required packages to run
 
